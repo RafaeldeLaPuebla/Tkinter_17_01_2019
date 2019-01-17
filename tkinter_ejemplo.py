@@ -3,6 +3,7 @@
 from tkinter import * #impórtame todo
 from tkinter import ttk
 
+
 root = Tk() #creo un objeto de tipo tkinter, que es una ventana
 
 root.geometry("640x480") #geometry es un método propio de tkinter
